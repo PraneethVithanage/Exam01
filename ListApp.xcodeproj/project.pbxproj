@@ -22,7 +22,7 @@
 		1F605DCB26F26DD900AEEDEC /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F605DCA26F26DD900AEEDEC /* MapView.swift */; };
 		1F605DD026F26E1B00AEEDEC /* ModleData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F605DCF26F26E1B00AEEDEC /* ModleData.swift */; };
 		1F605DD526F26EE200AEEDEC /* DataSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F605DD426F26EE200AEEDEC /* DataSet.swift */; };
-		1F605DDA26F26F2200AEEDEC /* landmarkData.json in Resources */ = {isa = PBXBuildFile; fileRef = 1F605DD926F26F2200AEEDEC /* landmarkData.json */; };
+		1F605DDA26F26F2200AEEDEC /* DetailsData.json in Resources */ = {isa = PBXBuildFile; fileRef = 1F605DD926F26F2200AEEDEC /* DetailsData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,7 +63,7 @@
 		1F605DCA26F26DD900AEEDEC /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		1F605DCF26F26E1B00AEEDEC /* ModleData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModleData.swift; sourceTree = "<group>"; };
 		1F605DD426F26EE200AEEDEC /* DataSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataSet.swift; sourceTree = "<group>"; };
-		1F605DD926F26F2200AEEDEC /* landmarkData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = landmarkData.json; sourceTree = "<group>"; };
+		1F605DD926F26F2200AEEDEC /* DetailsData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = DetailsData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -178,7 +178,7 @@
 		1F605DB126F26B2D00AEEDEC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				1F605DD926F26F2200AEEDEC /* landmarkData.json */,
+				1F605DD926F26F2200AEEDEC /* DetailsData.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -293,7 +293,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1F605D3826F24F3900AEEDEC /* LaunchScreen.storyboard in Resources */,
-				1F605DDA26F26F2200AEEDEC /* landmarkData.json in Resources */,
+				1F605DDA26F26F2200AEEDEC /* DetailsData.json in Resources */,
 				1F605D3526F24F3900AEEDEC /* Preview Assets.xcassets in Resources */,
 				1F605D3226F24F3900AEEDEC /* Assets.xcassets in Resources */,
 			);
